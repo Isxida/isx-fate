@@ -1,0 +1,22 @@
+html, body{
+  margin:0px;
+  padding:0px;
+  background: #000;
+  height:100%
+}
+canvas{
+  background: #000;
+  position:absolute;
+  top:32px;
+  left:32px;
+  width: 100%;
+  height: 100%;
+}
+#info{
+  position:absolute;
+  top:5px;
+  left:5px;
+  color:#fff;
+  font-size:small;
+}
+
